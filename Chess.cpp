@@ -2,8 +2,9 @@
 // Name        : Chess.cpp
 // Author      : Filip Przybysz
 // Version     :
+// Tutor       : mgr. Aleksandra Pasnikowska
 // Copyright   : Open Source
-// Description : The queens puzzle but for every chess piece
+// Description : The queens puzzle but for every chess piece and rectangular board
 //============================================================================
 
 #include <iostream>
